@@ -1,5 +1,5 @@
 -- Print numbers from 1 to N using LOOP, WHILE LOOP and FOR LOOP.
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
     	n number;
