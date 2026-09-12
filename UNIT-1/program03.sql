@@ -1,5 +1,5 @@
 -- Accept product name, quantity and price and calculate discount in Rs.
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
 	pname varchar2(20);
