@@ -1,5 +1,5 @@
 -- Display all male employees working in HR department.
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
 CURSOR c1 IS SELECT EID, EName, Deptname, Gender FROM EMP WHERE Gender = 'M' AND Deptname = 'HR';
