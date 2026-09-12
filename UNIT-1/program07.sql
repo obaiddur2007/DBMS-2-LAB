@@ -1,5 +1,5 @@
 - Calculate total marks, percentage and grade of a student from the RESULT table using Rollno.
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
    	 rno number;
