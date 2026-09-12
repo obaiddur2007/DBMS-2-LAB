@@ -1,6 +1,6 @@
 --program calculate simple interest using pl/sql
 
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
 	principal number:=10000;
