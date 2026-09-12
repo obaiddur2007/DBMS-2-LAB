@@ -1,5 +1,5 @@
 -- Display gross salary of employee using EID.
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
     	id number;
