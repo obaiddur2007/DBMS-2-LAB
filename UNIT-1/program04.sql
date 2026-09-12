@@ -1,5 +1,5 @@
 -- Accept measurement in feet and convert it into cm, inch and meter.
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
 	feet number;
