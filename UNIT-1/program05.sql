@@ -1,5 +1,5 @@
 -- Convert Celsius temperature to Fahrenheit.
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
 	c NUMBER;
