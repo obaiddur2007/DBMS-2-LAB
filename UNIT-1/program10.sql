@@ -1,5 +1,5 @@
 -- Delete employee record for a given EID.
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
     	id number;
