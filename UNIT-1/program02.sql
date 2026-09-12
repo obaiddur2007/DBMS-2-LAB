@@ -1,6 +1,6 @@
 -- Program: Calculate Square and Cube of a Given Number
 
-SET SERVEROUTPUT ON;
+SET SERVEROUTPUT ON
 
 DECLARE
 	 num number := 5;
